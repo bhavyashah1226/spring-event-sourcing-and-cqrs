@@ -1,0 +1,5 @@
+/var/tmp/Roost/RoostGPT/spring-event-azure/20065e90-f5b2-498e-acdb-fba14424206e/source/spring-event-sourcing-and-cqrs/infra/src/main/java/com/baeldung/infra/event/BaseEvent.java
+/var/tmp/Roost/RoostGPT/spring-event-azure/20065e90-f5b2-498e-acdb-fba14424206e/source/spring-event-sourcing-and-cqrs/infra/src/main/java/com/baeldung/infra/command/Command.java
+/var/tmp/Roost/RoostGPT/spring-event-azure/20065e90-f5b2-498e-acdb-fba14424206e/source/spring-event-sourcing-and-cqrs/infra/src/main/java/com/baeldung/infra/projection/AbstractProjectionPoller.java
+/var/tmp/Roost/RoostGPT/spring-event-azure/20065e90-f5b2-498e-acdb-fba14424206e/source/spring-event-sourcing-and-cqrs/infra/src/main/java/com/baeldung/store/repo/RawEventRepo.java
+/var/tmp/Roost/RoostGPT/spring-event-azure/20065e90-f5b2-498e-acdb-fba14424206e/source/spring-event-sourcing-and-cqrs/infra/src/main/java/com/baeldung/infra/persistence/event/RawEvent.java
