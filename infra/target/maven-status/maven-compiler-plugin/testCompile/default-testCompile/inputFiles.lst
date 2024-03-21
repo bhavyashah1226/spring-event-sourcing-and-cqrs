@@ -1,0 +1,14 @@
+/var/tmp/Roost/RoostGPT/spring-event-azure/20065e90-f5b2-498e-acdb-fba14424206e/source/spring-event-sourcing-and-cqrs/infra/src/test/java/com/baeldung/infra/event/BaseEventSetCorrelationIdTest.java
+/var/tmp/Roost/RoostGPT/spring-event-azure/20065e90-f5b2-498e-acdb-fba14424206e/source/spring-event-sourcing-and-cqrs/infra/src/test/java/com/baeldung/infra/persistence/event/RawEventSetIdTest.java
+/var/tmp/Roost/RoostGPT/spring-event-azure/20065e90-f5b2-498e-acdb-fba14424206e/source/spring-event-sourcing-and-cqrs/infra/src/test/java/com/baeldung/infra/persistence/event/RawEventSetTypeTest.java
+/var/tmp/Roost/RoostGPT/spring-event-azure/20065e90-f5b2-498e-acdb-fba14424206e/source/spring-event-sourcing-and-cqrs/infra/src/test/java/com/baeldung/infra/persistence/event/RawEventGetTypeTest.java
+/var/tmp/Roost/RoostGPT/spring-event-azure/20065e90-f5b2-498e-acdb-fba14424206e/source/spring-event-sourcing-and-cqrs/infra/src/test/java/com/baeldung/infra/persistence/event/RawEventGetCorrelationIdTest.java
+/var/tmp/Roost/RoostGPT/spring-event-azure/20065e90-f5b2-498e-acdb-fba14424206e/source/spring-event-sourcing-and-cqrs/infra/src/test/java/com/baeldung/infra/persistence/event/RawEventGetIdTest.java
+/var/tmp/Roost/RoostGPT/spring-event-azure/20065e90-f5b2-498e-acdb-fba14424206e/source/spring-event-sourcing-and-cqrs/infra/src/test/java/com/baeldung/infra/command/CommandToStringTest.java
+/var/tmp/Roost/RoostGPT/spring-event-azure/20065e90-f5b2-498e-acdb-fba14424206e/source/spring-event-sourcing-and-cqrs/infra/src/test/java/com/baeldung/infra/event/BaseEventGetCorrelationIdTest.java
+/var/tmp/Roost/RoostGPT/spring-event-azure/20065e90-f5b2-498e-acdb-fba14424206e/source/spring-event-sourcing-and-cqrs/infra/src/test/java/com/baeldung/infra/persistence/event/RawEventSetPayloadTest.java
+/var/tmp/Roost/RoostGPT/spring-event-azure/20065e90-f5b2-498e-acdb-fba14424206e/source/spring-event-sourcing-and-cqrs/infra/src/test/java/com/baeldung/infra/persistence/event/RawEventToStringTest.java
+/var/tmp/Roost/RoostGPT/spring-event-azure/20065e90-f5b2-498e-acdb-fba14424206e/source/spring-event-sourcing-and-cqrs/infra/src/test/java/com/baeldung/infra/persistence/event/RawEventGetTransactionTimeTest.java
+/var/tmp/Roost/RoostGPT/spring-event-azure/20065e90-f5b2-498e-acdb-fba14424206e/source/spring-event-sourcing-and-cqrs/infra/src/test/java/com/baeldung/infra/persistence/event/RawEventSetTransactionTimeTest.java
+/var/tmp/Roost/RoostGPT/spring-event-azure/20065e90-f5b2-498e-acdb-fba14424206e/source/spring-event-sourcing-and-cqrs/infra/src/test/java/com/baeldung/infra/persistence/event/RawEventGetPayloadTest.java
+/var/tmp/Roost/RoostGPT/spring-event-azure/20065e90-f5b2-498e-acdb-fba14424206e/source/spring-event-sourcing-and-cqrs/infra/src/test/java/com/baeldung/infra/persistence/event/RawEventSetCorrelationIdTest.java
